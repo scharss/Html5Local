@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Café de Colombia</string>
+    <string name="btninicio">Inicio</string>
+    <string name="btnquienes">Quiénes Somos</string>
+    <string name="btnproductos">Productos</string>
+    <string name="btncontacto">Contacto</string>
+</resources>
